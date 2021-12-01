@@ -11,10 +11,6 @@ body {
   font-size: 1.6rem;
   font-family: Arial, Helvetica, sans-serif;
 }
-#root{
-  height: 100%;
- 
-}
 
 /* layout */
 .headerOptions {
@@ -99,8 +95,7 @@ a.brand {
    background-color: #f8f8f8;
    border-radius: 0.5em;
    margin: 1em;
-  
-  
+   /* width: 20%; */
    
  }
  .card-body{
